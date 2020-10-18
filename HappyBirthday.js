@@ -29,7 +29,7 @@
    function image(n) {
      var url = 'css/minion_';
      url += n;
-     url += '.jpeg';
+     url += '.jpg';
      return url;
    }
 
